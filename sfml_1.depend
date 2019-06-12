@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1558791510 source:/home/oleg/code_blocks_projects/sfml_1/main.cpp
+	<SFML/Graphics.hpp>
+	"Game.hpp"
+
+1560370345 /home/oleg/code_blocks_projects/sfml_1/Entity.hpp
+	"Environment.hpp"
+	<cmath>
+
+1560348893 /home/oleg/code_blocks_projects/sfml_1/Player.hpp
+	"Entity.hpp"
+
+1560370026 /home/oleg/code_blocks_projects/sfml_1/Game.hpp
+	"Player.hpp"
+	"Environment.hpp"
+
+1560357989 /home/oleg/code_blocks_projects/sfml_1/Environment.hpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	"TextureBase.hpp"
+
+1560367701 /home/oleg/code_blocks_projects/sfml_1/TextureBase.hpp
+
